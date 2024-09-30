@@ -13,7 +13,7 @@ This project implements linear regression with one variable to predict profits f
 
 ### 1. Scatter plot of the Training Data
 
-![Scatter plot](./out/scatter_plot.png)
+![Scatter plot](./out/scatter.png)
 
 ### 2. Linear Regression Fit
 
